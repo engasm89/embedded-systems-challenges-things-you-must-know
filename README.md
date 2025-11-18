@@ -54,19 +54,3 @@ gcc -Wall -Wextra -std=c11 *.c -o demo && ./demo
 
 Open `data/sample-telemetry.jsonl` to inspect representative console output. This is
 useful when validating your hardware wiring or cloud logging pipeline.
-
-## Additional Notes (Legacy Content)
-
-# Embedded Systems Challenges: Things You Must Know
-
-- Course: Embedded Systems Challenges: Things You Must Know
-- Author: Ashraf S A AlMadhoun
-- Link: https://www.udemy.com/course/embedded-systems-challenges-ess-things-you-must-know/?couponCode=JULYMAXDICOUNT
-
-## Overview
-
-Implement reliability patterns including watchdogs and retries to handle transient failures in embedded applications.
-
-## Purchase With Discount
-
-Enroll using the link above to get a discounted price and build resilient embedded systems.
